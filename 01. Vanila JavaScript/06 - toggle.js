@@ -28,6 +28,7 @@ function handleClick() {
 // and that is called 'toggle' //
 */
 
+// this one check whether there's sth you want or not - and add it if it isn't there.
 function handleClick() {
     title.classList.toggle(CLICKED_CLASS)
 }
